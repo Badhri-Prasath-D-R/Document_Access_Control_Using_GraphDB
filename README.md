@@ -7,7 +7,7 @@ A production-grade **Role-Based Access Control (RBAC)** verification system that
 ## System Workflow
 
 
-![System Workflow](readmeAssets\Document_Access_Control_Workflow.jpeg)
+![System Workflow](https://github.com/Badhri-Prasath-D-R/Document_Access_Control_Using_GraphDB/blob/main/readmeAssets/Document_Access_Control_Workflow.jpeg)
 
 ---
 
@@ -177,7 +177,7 @@ LIMIT 10000000
 ```
 ## Benchmark Results
 
-![benchmark_results](readmeAssets\Benchmark_Results.png)
+![benchmark_results]([readmeAssets\Benchmark_Results.png](https://github.com/Badhri-Prasath-D-R/Document_Access_Control_Using_GraphDB/blob/main/readmeAssets/Benchmark_Results.png))
 ---
 
 ### Test Setup
